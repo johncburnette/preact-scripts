@@ -1,5 +1,5 @@
 {
-  "name": "preact-scripts",
+  "name": "widget-scripts-for-preact",
   "version": "1.0.0",
   "description": "Inspired by preact-widget-scripts, this package serves the same purpose but has been updated to work with newer cli versions. This package is currently in development and it should not be expected that it is in a working state at this point.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johncburnette/preact-scripts.git"
+    "url": "git+https://github.com/johncburnette/widget-scripts-for-preact.git"
   },
   "keywords": [
     "preact",
@@ -17,9 +17,9 @@
   "author": "John Burnette <burnette.john@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johncburnette/preact-scripts/issues"
+    "url": "https://github.com/johncburnette/widget-scripts-for-preact/issues"
   },
-  "homepage": "https://github.com/johncburnette/preact-scripts#readme",
+  "homepage": "https://github.com/johncburnette/widget-scripts-for-preact#readme",
   "dependencies": {
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-stage-1": "^7.8.3",
